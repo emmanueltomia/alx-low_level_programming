@@ -6,7 +6,7 @@
  * Return = Always 0 (success)
  */
 
-int (void)
+int main
 {
 	char ch;
 
