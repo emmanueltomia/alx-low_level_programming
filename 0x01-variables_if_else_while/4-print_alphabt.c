@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - prints alphabet in lowercase expect qand e
- * followed by a new line 
- * Return = Always 0 (success)
- */
+* main - prints alphabet in lowercase expect qand e
+* followed by a new line 
+* Return = Always 0 (success)
+*/
 int main(void)
 	{
 	char ch;
