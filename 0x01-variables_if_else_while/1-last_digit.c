@@ -5,11 +5,12 @@
 /**
  * main - print last digit of the random
  * number should be stored in the variable n
- * return: (0) if executable
+ * return: 0 if executable
  **/
 int main(void)
 {
 	int n;
+	
 	
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
